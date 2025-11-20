@@ -1,7 +1,7 @@
 ## Introduction
 
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+(Laravel,+PHP,+MySQL);API+Developer+%28Created+and+Integrated+multiple+API+services%29&font=Fira+Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /> 
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+(Laravel,+PHP,+MySQL);API+Developer+%28Created+and+Integrated+multiple+API+services.%29&font=Fira+Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /> 
 </p>
 
 
